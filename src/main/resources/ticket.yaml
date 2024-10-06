@@ -1,0 +1,14 @@
+jira:
+  url: "https://shalukakalpajith.atlassian.net"
+  username: "shalukakalpajith@gmail.com"
+  apiToken: "ATATT3xFfGF01Inyf8v6lnWaboK7kzKRo8PBeGwy77urdyPtfSUo7QJLHf8dyi7QaM8jI_IINzaZZCkx4jL1bSDLR0avNBBS-dHRr3DEChyau3e8jGy1NR0mjWTYS-HP85K5sSM4ng0IjDUOItA9UTziQ4IhNL2nQRPP4K0vrdP_tTPzeXuuGRQ=1CFE9AB1"
+
+ticket:
+  projectKey: "TEST"
+  summary: "Sample Ticket Summary"
+  description: "Detailed description of the issue."
+  issuetype: "Bug" # e.g., Bug, Task, Story
+  assignee: "assignee-username" # Optional
+  labels:
+    - automation
+    - java
